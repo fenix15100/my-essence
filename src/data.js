@@ -1,4 +1,6 @@
 import images from './images/images.js'
+import {HeartIcon} from "@heroicons/react/solid";
+
 export const projects = [
   {
     title: "React Reserve",
@@ -44,15 +46,17 @@ export const skills_laguanges = [
     "Docker",
     "Git",
     "Agile Philosofy",
+    "JetBrians Enjoyer",
+    "Linux"
 
 ]
 
  export const skills_jobs = [
     "Backend Developer",
     "Data Architect = [High knowledge in ETL Stuffs]",
-    "Data Engineer = [Selenium,BeatifulSoap,Scripting,X-Path]",
-    "Web API Integration Engineer",
-    "Web API Designer = [JSON API,Swagger,RESTsFull,SOAP]",
+    "Data Engineer = [Selenium,BeatifulSoap,Scripting]",
+    "API Integration Engineer",
+    "API Designer = [JSON API,Swagger,RESTsFull,SOAP]",
     "CI/CD Automation Engineer = [Jenkins,Team City,Travis CI]",
     "VCS Administrator = [Gitlab,Github,Bitbucket]",
     "Infra. System Integration and Automation (IaaS) Engineer = [Vmware]",
